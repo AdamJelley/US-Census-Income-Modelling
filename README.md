@@ -1,6 +1,6 @@
 # US Census Income Modelling
 
-The following link lets you download an archive containing an “exercise” US Census dataset: http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip
+The following link provides an archive containing an “exercise” US Census dataset: http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip
 
 This US Census dataset contains detailed but anonymized information for approximately 300,000 people.
 
@@ -25,7 +25,3 @@ The goal of this exercise is not to create the best or the purest model, but rat
 Explain areas that may have been the most challenging for you.
 
 Find clear insights on the profiles of the people that make more than $50,000 / year. For example, which variables seem to be the most correlated with this phenomenon?
-
-Finally, you push your code on GitHub to share it with me, or send it via email.
-
-Once again, the goal of this exercise is not to solve this problem, but rather to spend a few hours on it and to thoroughly explain your approach.
