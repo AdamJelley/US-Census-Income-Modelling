@@ -1,5 +1,4 @@
-# Dataiku_US_Census_Assessment
-Technical Assessment for Dataiku - Assessment Brief
+# US Census Income Modelling
 
 The following link lets you download an archive containing an “exercise” US Census dataset: http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip
 
